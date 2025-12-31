@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Chandan K Singh </h1>
-<h3 align="center">🚀 DevOps Engineer @ Infinite Computer Solutions</h3>
+<h1 align="center">I'm Chandan K Singh</h1>
+
+<h3 align="center">
+DevOps Engineer | Cloud • Kubernetes • Terraform • Automation
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,linux,git,docker,kubernetes,argo,helm" />
+</p>
+
+<p align="center">
+  <b>Terraform • Azure • Linux • CI/CD • Git • Docker • Kubernetes • ArgoCD • Helm</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 
 <table>
   <tr>
