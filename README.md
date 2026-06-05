@@ -36,9 +36,16 @@
         <li>👀 Visitors count : <img src="https://visitor-badge.laobi.icu/badge?page_id=Sujeetkushwaha14&left_color=blue&right_color=green"/></li>
       </ul>
     </td>    
-    <td>
-      <img src="https://github.com/Sujeetkushwaha14/sujeetkushwaha14.github.io/raw/main/assets/Devops%20animation.gif" width="300px" alt="DevOps Animation"/>
-    </td>
+   
+
+<div align="center">
+
+<img src="https://camo.githubusercontent.com/fda294423a50d8b9efc470aa757e20c66310c291d31aa025c38556f02e68a063/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966"
+     width="100%"
+     alt="DevOps Animation"/>
+
+</div>
+
   </tr>
 </table>
 
