@@ -35,17 +35,25 @@ DevOps Engineer | Cloud • Kubernetes • Terraform • Automation
 
 ---
 
-*🌐 Connect with Me*
-<p align="left">
-  <a href="https://www.linkedin.com/in/chandan-kumar-singh-639804239" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30" />
-  </a>  
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" alt="Instagram" />
-  </a>
-  <a href="mailto:chandanjataha@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" />
-  </a>
-</p>
+## 📬 Contact Me
+
+<div align="left">
+
+🌐 Portfolio: <a href="https://chandanjataha.github.io" target="_blank">chandanjataha.github.io</a> &nbsp; | &nbsp;
+
+💼 LinkedIn: <a href="https://www.linkedin.com/in/chandan-kumar-singh-639804239" target="_blank">Chandan Kumar Singh</a> &nbsp; | &nbsp;
+
+📧 Email: <a href="mailto:chandanjataha@gmail.com">chandanjataha@gmail.com</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Automate Everything • Scale Reliably • Deploy Confidently 🚀
+
+</div>
 
 --- 
 
@@ -79,10 +87,4 @@ DevOps Engineer | Cloud • Kubernetes • Terraform • Automation
 
 ---
 
-### 🎯 Fun Fact
 
-> "I don't just write code — I engineer secure, scalable, and reliable solutions."🚀."
-
----
-
-<p align="center">Made with ❤ by Chandan K Singh</p>
