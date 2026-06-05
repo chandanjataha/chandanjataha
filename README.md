@@ -68,12 +68,6 @@ ArgoCD
 </div>
 
 
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p> -->
-
-
  <table>
   <tr>
     <td width="50%">
@@ -148,26 +142,6 @@ Linux | Git | Bash Automation | Python Automation
 </p>
 
 
-### 🛠 Skills & Tools
-<p> 
-<!--   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" height="30"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" height="30"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" height="30"/> -->
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" height="30"/>
-  <img src="https://img.icons8.com/color/48/azure-1.png" alt="Azure" height="30"/>
-  <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" height="30"/>
-  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" height="30"/>
-  <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" height="30"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" height="30"/>
-  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" height="30"/>
-  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" height="30"/>
-  <img src="https://img.icons8.com/color/48/bash.png" alt="Bash" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" height="30"/>
-  </p>
-
----
 
 <h2>📊 GitHub Stats</h2>
 
