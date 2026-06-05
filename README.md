@@ -1,14 +1,23 @@
 <h1 align="center">👋 Hi, I'm Chandan Kumar Singh</h1>
+---
+<div align="center">
 
-<h3 align="center">
-DevOps Engineer | Cloud • Kubernetes • Terraform • Automation
-</h3>
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=azure,terraform,linux,git,docker,kubernetes,argo,helm" /> </p>
+## Senior DevOps / SRE Engineer | Cloud · Kubernetes · Terraform · Automation
 
 <p align="center">
-  <b>Terraform • Azure • Linux • CI/CD • Git • Docker • Kubernetes • ArgoCD • Helm</b>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,azure,linux,git,github" />
 </p>
+
+<p align="center">
+  <b>
+  🐳 Docker • ☸️ Kubernetes • ⎈ Helm • 🏗️ Terraform • ☁️ Azure • 🐧 Linux • 🌿 Git • 🐙 GitHub • 🚀 ArgoCD
+  </b>
+</p>
+
+</div>
+
+---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
