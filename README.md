@@ -17,6 +17,64 @@
 
 </div>
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
+Docker
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>
+Kubernetes
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=terraform" width="48"/><br>
+Terraform
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=azure" width="48"/><br>
+Azure
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>
+GCP
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>
+Linux
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+GitHub
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="48"/><br>
+Helm
+</td>
+
+<td align="center">
+<img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="48"/><br>
+ArgoCD
+</td>
+
+</tr>
+</table>
+
+</div>
 ---
 
 
