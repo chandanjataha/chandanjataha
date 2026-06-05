@@ -63,16 +63,6 @@ and highly available cloud environments.
 
 </ul>
 
-<div align="left">
-
-🌐 Portfolio: <a href="https://chandanjataha.github.io" target="_blank">chandanjataha.github.io</a> &nbsp; | &nbsp;
-
-💼 LinkedIn: <a href="https://www.linkedin.com/in/chandan-kumar-singh-639804239" target="_blank">Chandan Kumar Singh</a> &nbsp; | &nbsp;
-
-📧 Email: <a href="mailto:chandanjataha@gmail.com">chandanjataha@gmail.com</a>
-
-</div>
-
 ---
 
 <h2>🛠️ Core Skills</h2>
@@ -143,3 +133,31 @@ Linux | Git | Bash Automation | Python Automation
   <li>✔️ <strong>CKA – Certified Kubernetes Administrator (CNCF)</strong></li>
   <li>✔️ <strong>GCP & DevOps Certifications</strong> (In Progress)</li>
 </ul>
+
+
+<h2>📬 Contact Me</h2>
+
+<p>
+🌐 <strong>Portfolio:</strong>
+<a href="https://chandanjataha.github.io" target="_blank">
+chandanjataha.github.io
+</a>
+<br><br>
+
+💼 <strong>LinkedIn:</strong>
+<a href="https://www.linkedin.com/in/chandan-kumar-singh-639804239" target="_blank">
+Chandan Kumar Singh
+</a>
+<br><br>
+
+📧 <strong>Email:</strong>
+<a href="mailto:chandanjataha@gmail.com">
+chandanjataha@gmail.com
+</a>
+<br><br>
+
+💻 <strong>GitHub:</strong>
+<a href="https://github.com/chandanjataha" target="_blank">
+github.com/chandanjataha
+</a>
+</p>
