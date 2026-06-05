@@ -1,4 +1,4 @@
-<h1 align="center">I'm Chandan K Singh</h1>
+<h1 align="center">👋 Hi, I'm Chandan Kumar Singh</h1>
 
 <h3 align="center">
 DevOps Engineer | Cloud • Kubernetes • Terraform • Automation
