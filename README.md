@@ -47,7 +47,11 @@
 
   </tr>
 </table>
-
+---
+ Profile Summary
+Accomplished Azure Cloud & DevSecOps Engineer with 8.5 years of IT experience, including 5.5 years in DevOps and Cloud Automation. Skilled in designing Azure Landing Zones, Hub-Spoke architectures, and secure
+governance models using Terraform and Azure DevOps. Proven expertise in implementing Infrastructure as Code (IaC), CI/CD pipelines, AKS deployments, and disaster recovery solutions to ensure scalable, costoptimized,
+and highly available cloud environments.
 ---
 
 ## 📬 Contact Me
