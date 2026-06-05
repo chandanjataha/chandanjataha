@@ -137,4 +137,9 @@ Linux | Git | Bash Automation | Python Automation
 
 ---
 
+<h2>🎓 Certifications</h2>
 
+<ul>
+  <li>✔️ <strong>CKA – Certified Kubernetes Administrator (CNCF)</strong></li>
+  <li>✔️ <strong>GCP & DevOps Certifications</strong> (In Progress)</li>
+</ul>
