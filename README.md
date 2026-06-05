@@ -37,27 +37,6 @@
       </ul>
     </td>    
    
-<h2>🚀 Profile Summary</h2>
-
-<ul>
-  <li>☁️ <strong>Azure Cloud & DevSecOps Engineer</strong> with <strong>8.5 years</strong> of IT experience.</li>
-
-  <li>⚙️ <strong>5.5 years</strong> of expertise in DevOps, Cloud Automation, and Infrastructure Engineering.</li>
-
-  <li>🏗️ Experienced in designing <strong>Azure Landing Zones</strong> and <strong>Hub-Spoke Architectures</strong>.</li>
-
-  <li>🔐 Strong focus on Cloud Security, Governance, and DevSecOps best practices.</li>
-
-  <li>📦 Skilled in <strong>Terraform</strong>, <strong>Infrastructure as Code (IaC)</strong>, and Cloud Automation.</li>
-
-  <li>🚀 Hands-on experience with <strong>Azure DevOps</strong>, <strong>CI/CD Pipelines</strong>, and <strong>GitOps</strong>.</li>
-
-  <li>☸️ Expertise in <strong>AKS Deployments</strong> and Cloud-Native Applications.</li>
-
-  <li>🛡️ Proven experience in implementing <strong>Disaster Recovery</strong> and <strong>High Availability</strong> solutions.</li>
-
-  <li>📈 Passionate about building scalable, secure, and cost-optimized cloud platforms.</li>
-</ul>
 <div align="center">
 
 <img src="https://camo.githubusercontent.com/fda294423a50d8b9efc470aa757e20c66310c291d31aa025c38556f02e68a063/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966"
