@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Chandan Kumar Singh</h1>
----
+
 <div align="center">
 
 ## Senior DevOps / SRE Engineer | Cloud · Kubernetes · Terraform · Automation
@@ -75,12 +75,37 @@ and highly available cloud environments.
 
 ---
 
-<div align="center">
+<h2>🛠️ Core Skills</h2>
 
-### 💡 Automate Everything • Scale Reliably • Deploy Confidently 🚀
+<h3>☁️ Cloud & Platforms</h3>
+<p>
+Azure (AKS, Networking, Storage, IAM, Security)
+</p>
 
-</div>
+<h3>🐳 Containers & Orchestration</h3>
+<p>
+Docker | Kubernetes | Helm | ArgoCD (GitOps)
+</p>
 
+<h3>🏗️ Infrastructure as Code</h3>
+<p>
+Terraform (Modular Infrastructure, Environment Management, Remote State)
+</p>
+
+<h3>🔄 CI/CD</h3>
+<p>
+Azure DevOps Pipelines | GitHub Actions
+</p>
+
+<h3>📈 Monitoring & Observability</h3>
+<p>
+Prometheus | Grafana | Alerting | Dashboards
+</p>
+
+<h3>🐧 Other Skills</h3>
+<p>
+Linux | Git | Bash Automation | Python Automation
+</p>
 --- 
 
 ### 🛠 Skills & Tools
