@@ -143,19 +143,16 @@ Linux | Git | Bash Automation | Python Automation
 chandanjataha.github.io
 </a>
 <br><br>
-
 💼 <strong>LinkedIn:</strong>
 <a href="https://www.linkedin.com/in/chandan-kumar-singh-639804239" target="_blank">
 Chandan Kumar Singh
 </a>
 <br><br>
-
 📧 <strong>Email:</strong>
 <a href="mailto:chandanjataha@gmail.com">
 chandanjataha@gmail.com
 </a>
 <br><br>
-
 💻 <strong>GitHub:</strong>
 <a href="https://github.com/chandanjataha" target="_blank">
 github.com/chandanjataha
