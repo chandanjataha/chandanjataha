@@ -5,7 +5,7 @@ DevOps Engineer | Cloud • Kubernetes • Terraform • Automation
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,linux,git,docker,kubernetes,argo,helm" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1c7f-4ef5-9d7f-0c6638f7a6e3.gif" width="850">
 </p>
 
 <p align="center">
