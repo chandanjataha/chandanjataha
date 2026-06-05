@@ -129,11 +129,16 @@ Linux | Git | Bash Automation | Python Automation
 
 ---
 
-### 📈 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanjataha&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetkushwaha14&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandanjataha&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanjataha&theme=github-dark-blue&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanjataha&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
