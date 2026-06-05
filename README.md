@@ -5,15 +5,6 @@
 ## Senior DevOps / SRE Engineer | Cloud · Kubernetes · Terraform · Automation
 
 
-<!-- <p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,gcp,linux,git,github" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="48" height="48" alt="Helm"/>
-
-<img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="48" height="48" alt="ArgoCD"/>
-
-</p> -->
 
 </div>
 
@@ -75,7 +66,7 @@ ArgoCD
 </table>
 
 </div>
----
+
 
 
 <p align="center">
@@ -155,7 +146,7 @@ Prometheus | Grafana | Alerting | Dashboards
 <p>
 Linux | Git | Bash Automation | Python Automation
 </p>
---- 
+
 
 ### 🛠 Skills & Tools
 <p> 
