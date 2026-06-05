@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>
-  🐳 Docker • ☸️ Kubernetes • ⎈ Helm • 🏗️ Terraform • ☁️ Azure • 🐧 Linux • 🌿 Git • 🐙 GitHub • 🚀 ArgoCD
+  🐳 Docker • ☸️ Kubernetes •  ⎈ Helm •  🏗️ Terraform • ☁️ Azure • 🐧 Linux • 🌿 Git • 🐙 GitHub • 🚀 ArgoCD
   </b>
 </p>
 
