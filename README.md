@@ -26,7 +26,7 @@
 
  <table>
   <tr>
-    <td width="65%">
+    <td width="50%">
       <ul>     
         <li>👀 Visitors count : <img src="https://visitor-badge.laobi.icu/badge?page_id=Sujeetkushwaha14&left_color=blue&right_color=green"/></li>
       </ul>
