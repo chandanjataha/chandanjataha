@@ -5,7 +5,7 @@
 ## Senior DevOps / SRE Engineer | Cloud · Kubernetes · Terraform · Automation
 
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,gcp,linux,git,github" />
 
@@ -13,7 +13,7 @@
 
 <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="48" height="48" alt="ArgoCD"/>
 
-</p>
+</p> -->
 
 </div>
 
