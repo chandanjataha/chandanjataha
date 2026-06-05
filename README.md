@@ -24,7 +24,7 @@
 </p>
 
 
-<table>
+<!-- <table>
   <tr>
     <td width="65%">
       <ul>
@@ -35,7 +35,7 @@
         <li>🔗 Portfolio: <a href="https://chandanjataha.github.io" target="_blank"><strong>chandanjataha.github.io</strong></a></li>        
         <li>👀 Visitors count : <img src="https://visitor-badge.laobi.icu/badge?page_id=Sujeetkushwaha14&left_color=blue&right_color=green"/></li>
       </ul>
-    </td>    
+    </td>     -->
    
 <div align="center">
 
@@ -53,6 +53,39 @@
 Accomplished Azure Cloud & DevSecOps Engineer with 8.5 years of IT experience, including 5.5 years in DevOps and Cloud Automation. Skilled in designing Azure Landing Zones, Hub-Spoke architectures, and secure
 governance models using Terraform and Azure DevOps. Proven expertise in implementing Infrastructure as Code (IaC), CI/CD pipelines, AKS deployments, and disaster recovery solutions to ensure scalable, costoptimized,
 and highly available cloud environments.
+
+
+<h2>🔭 About Me</h2>
+
+<ul>
+  <li>🌍 <strong>Location:</strong> India</li>
+
+  <li>💼 <strong>Role:</strong> DevOps / SRE Engineer</li>
+
+  <li>🔧 <strong>Experience:</strong> Cloud Infrastructure, Kubernetes, Infrastructure as Code (IaC), GitOps, Monitoring & Observability</li>
+
+  <li>💬 <strong>Ask Me About:</strong> Terraform, Azure, AKS, CI/CD, GitOps, Azure DevOps, GitHub Actions, Kubernetes</li>
+
+  <li>📧 <strong>Email:</strong>
+      <a href="mailto:chandanjataha@gmail.com">
+      chandanjataha@gmail.com
+      </a>
+  </li>
+
+  <li>💻 <strong>GitHub:</strong>
+      <a href="https://github.com/chandanjataha">
+      github.com/chandanjataha
+      </a>
+  </li>
+
+  <li>💼 <strong>LinkedIn:</strong>
+      <a href="https://www.linkedin.com/in/chandan-kumar-singh-639804239">
+      Chandan Kumar Singh
+      </a>
+  </li>
+
+</ul>
+
 
 
 ## 📬 Contact Me
