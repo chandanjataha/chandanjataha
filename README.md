@@ -5,7 +5,7 @@
 ## Senior DevOps / SRE Engineer | Cloud · Kubernetes · Terraform · Automation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,azure,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,azure,gcp,linux,git,github,argocd" />
 </p>
 
 <p align="center">
