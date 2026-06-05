@@ -24,18 +24,13 @@
 </p>
 
 
-<!-- <table>
+ <table>
   <tr>
     <td width="65%">
-      <ul>
-      <li>☁ I work on <strong>Azure | Terraform | Docker | Kubernetes | CI/CD | GitHub Actions </strong></li>
-        <li>🔐 Passionate about <strong>Cloud Security</strong> & DevSecOps automation</li
-        <li>🧠 Exploring <strong>AKS, monitoring, and production-ready pipelines</strong></li>
-        <li>📫 Reach me at: <strong>chandanjataha@gmail.com</strong></li>
-        <li>🔗 Portfolio: <a href="https://chandanjataha.github.io" target="_blank"><strong>chandanjataha.github.io</strong></a></li>        
+      <ul>     
         <li>👀 Visitors count : <img src="https://visitor-badge.laobi.icu/badge?page_id=Sujeetkushwaha14&left_color=blue&right_color=green"/></li>
       </ul>
-    </td>     -->
+    </td>    
    
 <div align="center">
 
@@ -66,29 +61,7 @@ and highly available cloud environments.
 
   <li>💬 <strong>Ask Me About:</strong> Terraform, Azure, AKS, CI/CD, GitOps, Azure DevOps, GitHub Actions, Kubernetes</li>
 
-  <li>📧 <strong>Email:</strong>
-      <a href="mailto:chandanjataha@gmail.com">
-      chandanjataha@gmail.com
-      </a>
-  </li>
-
-  <li>💻 <strong>GitHub:</strong>
-      <a href="https://github.com/chandanjataha">
-      github.com/chandanjataha
-      </a>
-  </li>
-
-  <li>💼 <strong>LinkedIn:</strong>
-      <a href="https://www.linkedin.com/in/chandan-kumar-singh-639804239">
-      Chandan Kumar Singh
-      </a>
-  </li>
-
 </ul>
-
-
-
-## 📬 Contact Me
 
 <div align="left">
 
